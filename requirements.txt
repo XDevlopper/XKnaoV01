@@ -1,0 +1,12 @@
+requests
+bs4
+httpx
+websocket
+aiohttp
+asyncio
+colorama
+pycryptodome
+pathlib
+pytube
+pywin32
+websocket-client
